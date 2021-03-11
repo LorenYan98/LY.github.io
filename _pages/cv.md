@@ -93,7 +93,11 @@ Skills & Software
 * **Programming**
   * MATLAB
   * Python
-    * ds 
+    * Coursera certificate: 
+       * Programming for Python 
+       * Using Python to Access Web Data
+       * Using Databases with Python
+       * Python Data Structures
   * C#
   * Visual Code Studio & GitHub
 
