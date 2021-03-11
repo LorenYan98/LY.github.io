@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Civil Engineering, McGill University, 2020.12
-  *GPA: 3.75 /4.00 (Major GPA 3.87 /4.00)   Dean’s Honor List (top 10%)
+  * GPA: 3.75 /4.00 (Major GPA 3.87 /4.00)   Dean’s Honor List (top 10%)
 
 Work experience
 ======
