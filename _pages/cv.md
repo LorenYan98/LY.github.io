@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-*  **Arup** (Toronto, ON, Canada) Structural engineer intern, _**2021.01 – present*_
+*  **Arup** (Toronto, ON, Canada) Structural engineer intern, _**2021.01 – present**_
   * Responsible for the calculation reports, review of drawings, method statements related to the Firehall project (Toronto)
   * Collaborated with colleagues in Arup London office in the Whiteboard Project (Dublin), performed a detailed design report for steel beams at School Macroom based on the EuroCode.
   * Contributed to the design software ‘DesignCheck2’, applied my coding skills with C# via Visual Studio Code to create a comprehensive check for a W-section element in accordance with Canadian Code CSA S16-14. 
