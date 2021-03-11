@@ -22,6 +22,29 @@ _Interest_
 * Structural and earthquake engineering
 * Numerical modeling
 
+_Skills & Software_
+======
+
+* **Drawing and Modeling**
+  * AutoCAD
+  * Revit
+  * SketchUp
+  * Vray
+* **Structual Design and Analysis**
+  * SAP2000
+  * Tedds
+  * ETABS (fundamental)
+* **Programming**
+  * MATLAB
+  * Python
+    * Coursera certificate: 
+       * Programming for Python 
+       * Using Python to Access Web Data
+       * Using Databases with Python
+       * Python Data Structures
+  * C#
+  * Visual Code Studio & GitHub
+
 _Work experience_
 ======
 * **2021.01 – present**  
@@ -82,29 +105,6 @@ _Project experience_
     *  Provided teams with technical advice and materials in the design, building and assembling phases which enhances the bridge structure. Oversee all internal communications between Bridge Building Team and its respective members
     *  Recruit hundreds of study participants using innovative advertising
  
-
-Skills & Software
-======
-
-* **Drawing and Modeling**
-  * AutoCAD
-  * Revit
-  * SketchUp
-  * Vray
-* **Structual Design and Analysis**
-  * SAP2000
-  * Tedds
-  * ETABS (fundamental)
-* **Programming**
-  * MATLAB
-  * Python
-    * Coursera certificate: 
-       * Programming for Python 
-       * Using Python to Access Web Data
-       * Using Databases with Python
-       * Python Data Structures
-  * C#
-  * Visual Code Studio & GitHub
 
 Publications
 ======
