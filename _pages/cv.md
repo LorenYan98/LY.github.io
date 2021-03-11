@@ -14,7 +14,8 @@ _Education_
 ======
 * **B.S. in Civil Engineering, McGill University**, **2016.09 -2020.12**
   * **GPA: 3.75 /4.00 (Major GPA 3.87 /4.00)**   Dean’s Honor List (top 10%)
-
+* **Study away program, Stanford University**, **2019.06 -2019.08**
+  * **GPA: 3.80 /4.00**
 
 _Work experience_
 ======
@@ -63,6 +64,19 @@ _Project experience_
     * Drafted construction stages and section views of the bridge& steel cage showing the connection details with SketchUp.
     * Built SAP2000 model to analyze the structural response under different load cases; Using Auto-section function to select the proper size of HSS steel trusses based on the CSA S6-14 standard.
 
+* **2019.06 – 2019.08**     
+   **Sustainable design Fair**(Stanford University)
+   * Iterated designs and built prototypes of an advanced capsule hotel with SketchUp to engineer its structure for optimizing the occupancy of the area and meeting national safety standards; rendered the 3D model with Vray to present the design in the fair.
+
+* **2018.05 - 2018.06**   
+    **Geotechnical Survey**(Montreal, QC, Canada), 
+    * Conducted site survey for an abrupt hill around McConnell Arena Area; Operated measurement instruments (digital transit &GPS) to locate positions and altitudes of desired points. Drew the topographic map with AutoCAD.
+
+* **2017.09 – 2018.05**   
+    **McGill Bridge Building Team** (Montreal, QC, Canada) Designer/Vice President,
+    *  Provided teams with technical advice and materials in the design, building and assembling phases which enhances the bridge structure. Oversee all internal communications between Bridge Building Team and its respective members
+    *  Recruit hundreds of study participants using innovative advertising
+ 
 
 Skills
 ======
