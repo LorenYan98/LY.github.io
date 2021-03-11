@@ -78,14 +78,24 @@ _Project experience_
     *  Recruit hundreds of study participants using innovative advertising
  
 
-Skills
+Skills & Software
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+* **Drawing and Modeling**
+  * AutoCAD
+  * Revit
+  * SketchUp
+  * Vray
+* **Structual Design and Analysis**
+  * SAP2000
+  * Tedds
+  * ETABS (fundamental)
+* **Programming**
+  * MATLAB
+  * Python
+    * ds 
+  * C#
+  * Visual Code Studio & GitHub
 
 Publications
 ======
