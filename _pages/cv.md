@@ -59,17 +59,17 @@ _Research experience_
 _Project experience_
 ====== 
 * **2020.01 – 2020.05**   
-    **Capstone Design Project**(McGill University), 
+    **Capstone Design Project** (McGill University), 
     * Designed a steel truss cage to hold the pedestrian bridge spanning Cogswell Street which will enable the removal of the central support column. While minimizing deflection of the glass exterior & water pipes located on the bridge roof.
     * Drafted construction stages and section views of the bridge& steel cage showing the connection details with SketchUp.
     * Built SAP2000 model to analyze the structural response under different load cases; Using Auto-section function to select the proper size of HSS steel trusses based on the CSA S6-14 standard.
 
 * **2019.06 – 2019.08**     
-   **Sustainable design Fair**(Stanford University)
+   **Sustainable design Fair** (Stanford University)
    * Iterated designs and built prototypes of an advanced capsule hotel with SketchUp to engineer its structure for optimizing the occupancy of the area and meeting national safety standards; rendered the 3D model with Vray to present the design in the fair.
 
 * **2018.05 - 2018.06**   
-    **Geotechnical Survey**(Montreal, QC, Canada), 
+    **Geotechnical Survey** (Montreal, QC, Canada), 
     * Conducted site survey for an abrupt hill around McConnell Arena Area; Operated measurement instruments (digital transit &GPS) to locate positions and altitudes of desired points. Drew the topographic map with AutoCAD.
 
 * **2017.09 – 2018.05**   
