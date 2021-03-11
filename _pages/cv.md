@@ -24,12 +24,35 @@ _Work experience_
 *  **WSP** (Toronto, ON, Canada) Structural engineer intern, **2020.05 – 2020.08**
    * Worked with the Civil infrastructure department on a bridge design as part of my internship program
    * Learned to use different softwares such as Revit, Sketchup and bluebeam as part of the BIM team
-   * Partook in the operation of a BIM design portfolio for the EXPO 2020 project, which included designing, rendering, attending meetings with stakeholders and on site inspections to update the BIM design
+   * Partook in the operation of a BIM design portfolio for the Cogswell project, which included designing, rendering, attending meetings with stakeholders and on site inspections to update the BIM design
 
 * **ShuiShi Design** (Shanghai, China) CAD technician intern, **2019.05 – 2019.06**
   * Designed an entrance and a glass awning for the garage. Created the design plan with AutoCAD and their 3D models with SketchUp. Presented the design methodology to the supervisor through PowerPoint.
-  * Handled report and document tracking, project documentation, invoice/agreement verification and building permit applications. On-site visit with colleagues and wrote the report. 
-  
+  * Handled report and document tracking, project documentation, invoice/agreement verification and building permit applications. On-site visit with colleagues and wrote the report.
+ 
+_Research experience_
+====== 
+*  **Framework for seismic fragilities for wood structures** (McGill University), **2019.08 – 2019.12**
+  * Investigated the mechanism of damage-index based fragility analysis.
+  * Extracted seismic data of a full-scale shake table test on a wood structure from NEESWood Project (2007) and utilized the data to calibrate the Damage Index model.
+  * Determined potential factors influencing seismic responses of light-frame wood structures by analyzing their fragility curves via different retrofit strategies.
+  * Supervisor: Luc E Chouinard
+
+*  **Pushover analysis for reinforced concrete structures** (McGill University), **2019.04 – 2019.11**
+  * Investigated the mechanism of damage-index based fragility analysis.
+  * Extracted seismic data of a full-scale shake table test on a wood structure from NEESWood Project (2007) and utilized the data to calibrate the Damage Index model.
+  * Determined potential factors influencing seismic responses of light-frame wood structures by analyzing their fragility curves via different retrofit strategies.
+
+_Project experience_
+====== 
+*  **Capstone Design Project **(McGill University), **2020.01 – 2020.05**
+  * Designed a steel truss cage to hold the pedestrian bridge spanning Cogswell Street which will enable the removal of the central support column. While minimizing deflection of the glass exterior & water pipes located on the bridge roof.
+  * Drafted construction stages and section views of the bridge& steel cage showing the connection details with SketchUp.
+  * Analyzed the local climate, surroundings, building shape and construction to determine design loads
+  * Adhered to all of the latest structural standard and codes in Canada (CSA S6-14, NBCC2015)
+  * Built SAP2000 model to analyze the structural response under different load cases; Using Auto-section function to select the proper size of HSS steel trusses based on the CSA S6-14 standard.
+
+
 Skills
 ======
 * Skill 1
