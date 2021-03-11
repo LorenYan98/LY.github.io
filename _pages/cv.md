@@ -24,7 +24,7 @@ _Work experience_
    * Contributed to the design software ‘DesignCheck2’, applied my coding skills with C# via Visual Studio Code to create a comprehensive check for a W-section element in accordance with Canadian Code CSA S16-14. 
 
 
-*  **WSP** (Toronto, ON, Canada)** Structural engineer intern**, **2020.05 – 2020.08**
+*  **WSP** (Toronto, ON, Canada)**Structural engineer intern**, **2020.05 – 2020.08**
    * Worked with the Civil infrastructure department on a bridge design as part of my internship program
    * Learned to use different softwares such as Revit, Sketchup and bluebeam as part of the BIM team
    * Partook in the operation of a BIM design portfolio for the Cogswell project, which included designing, rendering, attending meetings with stakeholders and on site inspections to update the BIM design
