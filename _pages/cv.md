@@ -17,6 +17,11 @@ _Education_
 * **_Study away program, Stanford University_**, **_2019.06 -2019.08_** 
   * _GPA: 3.80 /4.00_
 
+_Interest_
+======
+* Structural and earthquake engineering
+* Numerical modeling
+
 _Work experience_
 ======
 * **2021.01 – present**  
