@@ -55,8 +55,6 @@ _Project experience_
 *  **Capstone Design Project**(McGill University), **2020.01 – 2020.05**
     * Designed a steel truss cage to hold the pedestrian bridge spanning Cogswell Street which will enable the removal of the central support column. While minimizing deflection of the glass exterior & water pipes located on the bridge roof.
     * Drafted construction stages and section views of the bridge& steel cage showing the connection details with SketchUp.
-    * Analyzed the local climate, surroundings, building shape and construction to determine design loads
-    * Adhered to all of the latest structural standard and codes in Canada (CSA S6-14, NBCC2015)
     * Built SAP2000 model to analyze the structural response under different load cases; Using Auto-section function to select the proper size of HSS steel trusses based on the CSA S6-14 standard.
 
 
