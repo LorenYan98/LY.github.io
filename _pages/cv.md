@@ -12,9 +12,9 @@ redirect_from:
 
 _Education_
 ======
-* **_B.S. in Civil Engineering, McGill University_**, **2016.09 -2020.12**     
-  * _GPA: 3.75 /4.00 (Major GPA 3.87 /4.00)_   Dean’s Honor List (top 10%)
-* **_Study away program, Stanford University_**, **2019.06 -2019.08** 
+* **_B.S. in Civil Engineering, McGill University_**, **_2016.09 -2020.12_**     
+  * _GPA: 3.75 /4.00 (Major GPA 3.87 /4.00)_   _Dean’s Honor List (top 10%)_
+* **_Study away program, Stanford University_**, **_2019.06 -2019.08_** 
   * _GPA: 3.80 /4.00_
 
 _Work experience_
