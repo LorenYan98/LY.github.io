@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Peidong Yan"
-  avatar           : "https://github.com/LorenYan98/LY.github.io/tree/main/images/P.png"
+  avatar           : https://github.com/LorenYan98/LY.github.io/tree/main/images/P.png
   bio              : "Civil Engineering Student at McGill University"
   location         : "17 dundonald st, Toronto, ON, Canada"
   employer         :
@@ -215,9 +215,9 @@ defaults:
       type: teaching
     values:
       layout: single
-      author_profile: true
-      share: true
-      comments: true
+      author_profile: false
+      share: false
+      comments: false
   # _publications
   - scope:
       path: ""
