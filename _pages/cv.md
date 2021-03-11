@@ -45,9 +45,9 @@ _Research experience_
 
 
 *  **Pushover analysis for reinforced concrete structures** (McGill University), **2019.04 – 2019.11**
-    * Investigated the mechanism of damage-index based fragility analysis.
-    * Extracted seismic data of a full-scale shake table test on a wood structure from NEESWood Project (2007) and utilized the data to calibrate the Damage Index model.
-    * Determined potential factors influencing seismic responses of light-frame wood structures by analyzing their fragility curves via different retrofit strategies.
+    * Constructed the 3D-model for a three-story reinforced concrete building (Richmond, BC) with SAP2000
+    * Performed Pushover analysis on the structure subjected to different earthquake levels; Statistically analyzed the data collected and their corresponding capacity spectrum, using SAP2000 to determine the seismic resistance of the structure.
+    * Identified and analyzed potential restraints regarding the Pushover analysis and cooperated the capacity spectrum method with it to optimize the prediction of responses for high-mode buildings.
 
 
 _Project experience_
