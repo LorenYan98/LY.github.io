@@ -32,8 +32,8 @@ _Work experience_
    * Partook in the operation of a BIM design portfolio for the Cogswell project, which included designing, rendering, attending meetings with stakeholders and on site inspections to update the BIM design
 
 
-* **2019.05 – 2019.06** 
-   **ShuiShi Design** (Shanghai, China) **CAD technician intern**, 
+* **2019.05 – 2019.06**  
+   **ShuiShi Design** (Shanghai, China) **CAD technician intern**,
   * Designed an entrance and a glass awning for the garage. Created the design plan with AutoCAD and their 3D models with SketchUp. Presented the design methodology to the supervisor through PowerPoint.
   * Handled report and document tracking, project documentation, invoice/agreement verification and building permit applications. On-site visit with colleagues and wrote the report.
  
@@ -57,7 +57,7 @@ _Research experience_
 
 _Project experience_
 ====== 
-* **2020.01 – 2020.05**
+* **2020.01 – 2020.05**   
     **Capstone Design Project**(McGill University), 
     * Designed a steel truss cage to hold the pedestrian bridge spanning Cogswell Street which will enable the removal of the central support column. While minimizing deflection of the glass exterior & water pipes located on the bridge roof.
     * Drafted construction stages and section views of the bridge& steel cage showing the connection details with SketchUp.
