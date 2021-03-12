@@ -1,6 +1,6 @@
 ---
 title: "Framework for Seismic Fragilities on Light-Frame Wood Structures and Retrofitting Strategies"
-collection: publications
+collection: portfolio
 permalink: /publication/2020-04-01-paper-title-number-2
 excerpt: ''
 date: 2020-08-01
