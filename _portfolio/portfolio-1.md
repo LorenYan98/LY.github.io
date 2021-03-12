@@ -1,6 +1,6 @@
 
 ---
-title: "DesignCheck2"
+title: "portfolio-1"
 excerpt: "DesignCheck2 sample output <br/><img src='/LY.github.io/images/P.png' width='50%' height = '50%'>"
 collection: portfolio
 ---
