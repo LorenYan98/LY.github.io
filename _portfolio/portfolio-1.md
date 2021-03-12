@@ -41,7 +41,7 @@ The code reads through user's input and select proper check based on it.
 Sample Code
 ---
 The code below shows the methodology for the **section classification**. As there are some existing functions available for me to process this, the code calls the existing function and outputs the section class for the following calculations. 
-```
+```C#
             // Section class checks flexural compression
             DesignCheck2.Structural.Steel.CSA.S16_14.Members.MomentResistance.SectionClassFlexuralCompressionW section_class_flex_calc;
             section_class_flex_calc = new Steel.CSA.S16_14.Members.MomentResistance.SectionClassFlexuralCompressionW(calculationID, F_y.Value, b.Value, d.Value, t.Value, w_web.Value, C_f.Value, A.Value);
@@ -57,7 +57,7 @@ The code below shows the methodology for the **section classification**. As ther
                 AddError("Web is Class 4!");
 ```
 The code below shows the methodology for the **flexural resistance check**. Based on the result of section classification from the previous calc, the code calls the function that is used to calculate the bending moment resistance.
-```
+```C#
             Variable M_r_x = DeclareVariableSilently(0, DesignCheck2.Definitions.Structural.Steel.CSA.Members.M_r_x.Properties);
             if (input_lateral_support == DesignCheck2.Enums.Structural.Steel.CSA.LateralSupportCondition.Laterally_Supported)
             {
