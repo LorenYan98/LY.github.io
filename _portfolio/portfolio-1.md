@@ -8,8 +8,15 @@ collection: portfolio
 
 [Design Check sample output](https://lorenyan98.github.io/LY.github.io/files/DesignCheck2.Structural.CombinedBeamChecks.pdf)
 
-**DesignCheck is a standard framework for writing engineering calculations in code**. Using it means people will save time by not having to repetitively pick through calculation spreadsheets trying to find the cluses for the structural check. The project aims to form a systematic check for a W section element in accordance with Canadian Code CSA S16-14 and it will be contributing to a central store of Arup knowledge that will be useful forever.
+**DesignCheck is a standard framework for writing engineering calculations in code**. Using it means people will save time by not having to repetitively pick through calculation spreadsheets trying to find the clauses for the structural check. The project aims to form a systematic check for a W section element in accordance with Canadian Code CSA S16-14 and it will be contributing to a central store of Arup knowledge that will be useful forever.
 
 * Prgramming language: C#
-* Platform: Visual Studio Code, Gitlab
+* Platform: Visual Studio Code, Gitlab  
+
+User input
+---
+The code requires
+
+<img src='/LY.github.io/images/designsc.png' width='90%' height = '90%'>
+
 
