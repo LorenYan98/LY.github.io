@@ -40,9 +40,35 @@ The code reads through user's input and select proper check based on it.
 
 Sample Code
 ---
+The code below shows the methodology for the **Section classification**. As there are some existing functions available for me to process the section classification, the code calls the existing fucntion and output the section class. 
 ```
-function test() {
-  console.log("notice the blank line before this function?");
-}
+            // Section class checks flexural compression
+            DesignCheck2.Structural.Steel.CSA.S16_14.Members.MomentResistance.SectionClassFlexuralCompressionW section_class_flex_calc;
+            section_class_flex_calc = new Steel.CSA.S16_14.Members.MomentResistance.SectionClassFlexuralCompressionW(calculationID, F_y.Value, b.Value, d.Value, t.Value, w_web.Value, C_f.Value, A.Value);
+            DeclareSubcalculation(section_class_flex_calc, false);
+            if (this.ErrorsExist)
+                return;
+            DesignCheck2.Definitions.Definition flange_class_ = new DesignCheck2.Definitions.Definition("flange_class", "Flange\\ class", "", "Section class of flange");
+            DesignCheck2.Enums.Structural.Steel.CSA.SectionClass flange_class = section_class_flex_calc.Results_Class_Flange.ValueTyped;
+            DesignCheck2.Enums.Structural.Steel.CSA.SectionClass web_class = section_class_flex_calc.Results_Class_Web.ValueTyped;
+            if (section_class_flex_calc.Results_Class_Flange.ValueTyped == DesignCheck2.Enums.Structural.Steel.CSA.SectionClass.Class_4)
+                AddError("Flange is Class 4!");
+            if (section_class_flex_calc.Results_Class_Web.ValueTyped == Enums.Structural.Steel.CSA.SectionClass.Class_4)
+                AddError("Web is Class 4!");
+```
+The code below shows the methodology for the **flextural resistance check**. Based on the result of section classification from the previous calculation, the code calls the function that used to calculate the bending moment resistance.
+```
+            Variable M_r_x = DeclareVariableSilently(0, DesignCheck2.Definitions.Structural.Steel.CSA.Members.M_r_x.Properties);
+            if (input_lateral_support == DesignCheck2.Enums.Structural.Steel.CSA.LateralSupportCondition.Laterally_Supported)
+            {
+                if ((flange_class == Enums.Structural.Steel.CSA.SectionClass.Class_1 || flange_class == Enums.Structural.Steel.CSA.SectionClass.Class_2) && (web_class == Enums.Structural.Steel.CSA.SectionClass.Class_1 || web_class == Enums.Structural.Steel.CSA.SectionClass.Class_2))
+                {
+                    DesignCheck2.Structural.Steel.CSA.S16_14.Members.MomentResistance.LaterallySupported.MomentResistanceClass1_2 moment_strong_calc;
+                    moment_strong_calc = new DesignCheck2.Structural.Steel.CSA.S16_14.Members.MomentResistance.LaterallySupported.MomentResistanceClass1_2(calculationID, F_y.Value, Z_x.Value);
+                    DeclareSubcalculation(moment_strong_calc, false);
+                    if (this.ErrorsExist)
+                        return;
+                    M_r_x = GetSubcalculationResult(moment_strong_calc, moment_strong_calc.Results_M_r, DesignCheck2.Definitions.Structural.Steel.CSA.Members.M_r_x.Properties);
+                }
 ```
 
