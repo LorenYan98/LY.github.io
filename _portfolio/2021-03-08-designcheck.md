@@ -1,5 +1,5 @@
 ---
-title: "DesignCheck2, Arup Compute"
+title: "BuiDesignCheck2, Arup Compute"
 excerpt: "**The project aims to form a systematic check for a W section element**<br/>"
 date: 2021-03-08
 tags:
