@@ -114,22 +114,22 @@ Publications
 
 Award
 ======
-* Dean's Honour List
+* **Dean's Honour List**
    * _The Dean's Honour List for undergraduate students recognizes those who rank in the top 10% of the Faculty of Engineering, based on the combined GPA for all courses taken during the Fall and Winter terms._
 
-* Albert Gosselin Scholarships in Engineering, 2019-2020
+* **Albert Gosselin Scholarships in Engineering**, 2019-2020
    *  _Awarded on the basis of high academic standing to students who have completed at least one year of an undergraduate program in the Faculty of Engineering_
 
-* Faculty of Engineering Scholarships, 2019-2020, 2017-2018
+* **Faculty of Engineering Scholarships**, 2019-2020, 2017-2018
    *  _Established in 1992 by the University to provide awards based on academic achievement to students in the top 10% of the Faculty. Granted by the Faculty of Engineering Scholarships Committee based on good academic standing._
 
-* Louis C.H. Scholarships in Engineering, 2018-2019,
+* **Louis C.H. Scholarships in Engineering**, 2018-2019,
    * _Awarded by the Faculty of Engineering to a student with high academic achievement who has completed at least one year of the B.Eng. program in any Department._
 
-* Zeev Vered Foundation Award, 2018-2019
+* **Zeev Vered Foundation Award**, 2018-2019
    * _For a student in Civil Engineering with a good academic record. Awarded on the recommendation of the Department._
 
-* Richard Evan International Scholarships, 2017-2018
+* **Richard Evan International Scholarships**, 2017-2018
    *  _Established in 2009 by Rio Tinto Limited in honor of Richard Evans, former President of Rio Tinto Alcan Inc. To be awarded to outstanding undergraduate students in the Faculty of Engineering_
 
 
