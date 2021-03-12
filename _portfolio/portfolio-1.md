@@ -29,7 +29,7 @@ The code reads through user's input and select proper check based on it.
 * _S16-14 13.3_, Compression
 * _S16-14 13.2_, Tension
 * _S16-14 13.4_, Shear
-* _S16-14 13.5, 13.6_, Bending, Biaxial Bending
+* _S16-14 13.5, 13.6_, Bending, Biaxial Bending (Calculation varies upon differet section classes)
 * _S16-14 13.3, 13.8_, Compression + Bending (Calculation varies upon differet section classes)
     * Cross section check
     * Overall check
@@ -37,4 +37,8 @@ The code reads through user's input and select proper check based on it.
 * _S16-14 13.9_, Tension + Bending (Calculation varies upon differet section classes)
 
   <img src='/LY.github.io/images/flowchart.png'>
+
+Sample Code
+---
+https://github.com/LorenYan98/LY.github.io/blob/4be632bb48a5749d76cec4f6d825319692223d9a/files/CombinedBeamChecks.cs#L249-L252
 
