@@ -17,4 +17,4 @@ Light-frame wood-dwellings in Canada are vulnerable to seismic hazards since mos
 
 
 
-<img src='https://lorenyan98.github.io/LY.github.io/images/woodframe.png'>
+<img src='https://lorenyan98.github.io/LY.github.io/images/woodframe.png' width='70%' height = '70%'>
