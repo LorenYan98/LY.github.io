@@ -112,11 +112,30 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Teaching
+Award
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Dean's Honour List
+   * The Dean's Honour List for undergraduate students recognizes those who rank in the top 10% of the Faculty of Engineering, based on the combined GPA for all courses taken during the Fall and Winter terms.
+
+
+* Richard Evan International Scholarships
+   *  _Established in 2009 by Rio Tinto Limited in honor of Richard Evans, former President of Rio Tinto Alcan Inc. To be awarded to outstanding undergraduate students in the Faculty of Engineering_
+
+* Albert Gosselin Scholarships in Engineering
+   *  _Awarded on the basis of high academic standing to students who have completed at least one year of an undergraduate program in the Faculty of Engineering_
+
+
+* Faculty of Engineering Scholarships
+   *  _Established in 1992 by the University to provide awards based on academic achievement to students in the top 10% of the Faculty. Granted by the Faculty of Engineering Scholarships Committee based on good academic standing._
+
+* Louis C.H. Scholarships in Engineering
+   *  _ Awarded by the Faculty of Engineering to a student with high academic achievement who has completed at least one year of the B.Eng. program in any Department_.
+
+* Zeev Vered Foundation Award
+   *  _For a student in Civil Engineering with a good academic record. Awarded on the recommendation of the Department._
+
+
+
   
 Service and leadership
 ======
