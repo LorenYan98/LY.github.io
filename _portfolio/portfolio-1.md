@@ -40,5 +40,7 @@ The code reads through user's input and select proper check based on it.
 
 Sample Code
 ---
-https://github.com/LorenYan98/LY.github.io/blob/4be632bb48a5749d76cec4f6d825319692223d9a/files/CombinedBeamChecks.cs#L249-L252
+'''C# 
+return  
+'''
 
