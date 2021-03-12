@@ -22,4 +22,20 @@ Detailed explaination for each variable will be automatically displayed when the
 
 <img src='/LY.github.io/images/designsc.png'>
 
+DesignCheck Methodology (Partial flowchat)
+---
+
+The code reads through user's input and select proper check based on it.
+* _S16-14 11.3, 11.2_, Section Classification 
+* _S16-14 13.3_, Compression
+* _S16-14 13.2_, Tension
+* _S16-14 13.4_, Shear
+* _S16-14 13.5, 13.6_, Bending, Biaxial Bending
+* _S16-14 13.3, 13.8_, Compression + Bending (Calculation varies upon differet section classes)
+    * Cross section check
+    * Overall check
+    * Lateral torsional buckling check
+* _S16-14 13.9_Tension + Bending (Calculation varies upon differet section classes)
+
+<img src='/LY.github.io/images/flowchart.png'>
 
