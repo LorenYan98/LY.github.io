@@ -1,7 +1,8 @@
 ---
-title: "Z_Formation of an Effective Non-Linear Seismic Analysis"
+title: "Formation of an Effective Non-Linear Seismic Analysis"
 collection: portfolio
 permalink: /LY.github.io/_publication/2009-10-01-paper-title-number-1
+excerpt: ''
 date: 2020-03-01
 venue: 'ICJE'
 citation: 'Peidong Yan(2020). &quot;Formation of an Effective Non-Linear Seismic Analysis.&quot;, DOI: 10.6919/ICJE.201910_5(11).0017, ISSN: 2414-1895 <i>ICJE</i>. 1(1).'
