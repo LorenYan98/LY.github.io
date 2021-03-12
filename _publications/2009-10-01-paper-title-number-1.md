@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 1"
+title: "Formation of an Effective Non-Linear Seismic Analysis"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: ' '
+date: 2020-03
+venue: 'ICJE, DOI: 10.6919/ICJE.201910_5(11).0017, ISSN: 2414-1895'
+paperurl: 'https://github.com/LorenYan98/LY.github.io/blob/main/files/_Pushover_Research%20paperICJE-5-11-120-129.pdf'
+citation: 'Peidong Yan, (2020). &quot;Formation of an Effective Non-Linear Seismic Analysis.&quot; <i>ICJE</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
