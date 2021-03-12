@@ -17,7 +17,7 @@
 .ai {
 	display:inline-block;
 	font:normal normal normal 8px/1 Academicons;
-	font-size:0.625em;
+	font-size:inherit;
 	text-rendering:auto;
 	-webkit-font-smoothing:antialiased;
 	-moz-osx-font-smoothing:grayscale;
