@@ -35,7 +35,7 @@ The code reads through user's input and select proper check based on it.
     * Cross section check
     * Overall check
     * Lateral torsional buckling check
-* _S16-14 13.9_Tension + Bending (Calculation varies upon differet section classes)
+* _S16-14 13.9_, Tension + Bending (Calculation varies upon differet section classes)
 
 <img src='/LY.github.io/images/flowchart.png'>
 
