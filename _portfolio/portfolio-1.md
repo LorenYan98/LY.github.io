@@ -40,7 +40,9 @@ The code reads through user's input and select proper check based on it.
 
 Sample Code
 ---
-'''C# 
-return  
-'''
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
 
