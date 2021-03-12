@@ -1,8 +1,5 @@
-
 ---
-title: "portfolio-1"
-excerpt: "DesignCheck2 sample output <br/><img src='/LY.github.io/images/P.png' width='50%' height = '50%'>"
+title: "Portfolio item number 1"
+excerpt: "Short description of portfolio item number 1<br/><img src='/LY.github.io/images/P.png' width='50%' height = '50%'>"
 collection: portfolio
 ---
-[Report Preview.pdf](https://github.com/LorenYan98/LY.github.io/files/6127564/Report.Preview.pdf)
-
