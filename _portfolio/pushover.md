@@ -1,6 +1,6 @@
 ---
 title: "Formation of an Effective Non-Linear Seismic Analysis"
-collection: publications
+collection: portfolio
 permalink: /LY.github.io/_publication/2009-10-01-paper-title-number-1
 excerpt: ' '
 date: 2020-03-01
