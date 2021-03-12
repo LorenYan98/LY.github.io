@@ -1,7 +1,8 @@
+
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/LY.github.io/images/P.png' width='50%' height = '50%'>"
+title: "DesignCheck2"
+excerpt: "DesignCheck2 sample output <br/><img src='/LY.github.io/images/sf.png' width='50%' height = '50%'>"
 collection: portfolio
 ---
+[Report Preview.pdf](https://github.com/LorenYan98/LY.github.io/files/6127564/Report.Preview.pdf)
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
