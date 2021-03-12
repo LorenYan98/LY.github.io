@@ -74,8 +74,10 @@ The code below shows the methodology for the **flexural resistance check**. Base
 
 Output
 ---
-As a result, a full calculation report for the W section element in accordance with Canadian Code CSA S16-14 will be generated. The reports include all detailed calculation and reference from the Building Code, which significantly accelerates the design check process.
+As a result, a full calculation report for the W section element in accordance with Canadian Code CSA S16-14 will be generated. The reports include all detailed calculation and reference from the Building Code, which significantly accelerates the design check process. 
+
+[View Full Calculation Report](https://lorenyan98.github.io/LY.github.io/files/DesignCheck2.Structural.CombinedBeamChecks.pdf) 
 
   <img src='/LY.github.io/images/samplecal.png'>
   
-[View Full Calculation Report](https://lorenyan98.github.io/LY.github.io/files/DesignCheck2.Structural.CombinedBeamChecks.pdf)
+
