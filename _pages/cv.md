@@ -48,10 +48,10 @@ _Skills & Software_
 _Work experience_
 ======
 * **2021.01 – present**  
-   **Arup** (Toronto, ON, Canada) **Structural engineer intern**, [Arup](https://lorenyan98.github.io/LY.github.io/portfolio/portfolio-1/)
+   **Arup** (Toronto, ON, Canada) **Structural engineer intern**, 
    * Responsible for the calculation reports, review of drawings, method statements related to the Firehall project (Toronto)
    * Collaborated with colleagues in Arup London office in the Whiteboard Project (Dublin), performed a detailed design report for steel beams at School Macroom based on the EuroCode.
-   * Contributed to the design software ‘DesignCheck2’, applied my coding skills with C# via Visual Studio Code to create a comprehensive check for a W-section element in accordance with Canadian Code CSA S16-14. 
+   * Contributed to the design software ‘DesignCheck2’, applied my coding skills with C# via Visual Studio Code to create [a comprehensive check for a W-section element](https://lorenyan98.github.io/LY.github.io/portfolio/portfolio-1/) in accordance with Canadian Code CSA S16-14. 
 
 
 * **2020.05 – 2020.08**  
