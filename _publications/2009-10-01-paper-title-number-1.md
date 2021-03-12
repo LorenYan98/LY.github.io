@@ -1,7 +1,7 @@
 ---
 title: "Formation of an Effective Non-Linear Seismic Analysis"
 collection: publications
-permalink: /LY.github.io/publication/2009-10-01-paper-title-number-1
+permalink: /LY.github.io/_publication/2009-10-01-paper-title-number-1
 excerpt: ' '
 date: 2020-03
 venue: 'ICJE, DOI: 10.6919/ICJE.201910_5(11).0017, ISSN: 2414-1895'
