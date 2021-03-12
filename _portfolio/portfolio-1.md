@@ -21,7 +21,7 @@ The code requires the user to input section properties and loading condition alo
 
 <img src='/LY.github.io/images/designsc.png'>
 
-DesignCheck Methodology (Partial flowchat)
+DesignCheck Methodology (Partial Flowchat)
 ---
 
 The code reads through user's input and select proper check based on it.
@@ -35,7 +35,6 @@ The code reads through user's input and select proper check based on it.
     * Overall check
     * Lateral torsional buckling check
 * _S16-14 13.9_, Tension + Bending (Calculation varies upon differet section classes)
-
 
 <img src='/LY.github.io/images/flowchart.png'>
 
