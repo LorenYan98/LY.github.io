@@ -137,6 +137,6 @@ Award
 Service and leadership
 ======
 *  **2016-present**
-*  **Volunteer**, Summer part-time 
+    **YuhuaZhai**, Summer part-time volunteer 
    * YUHUAZHAI is a vegetarian restaurant that provides free lunch for the elderly and workers in the community. It promotes vegetarianism and advocates 'be grateful for life, cherishes food'.
 
