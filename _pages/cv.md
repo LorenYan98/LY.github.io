@@ -129,10 +129,10 @@ Award
    *  _Established in 1992 by the University to provide awards based on academic achievement to students in the top 10% of the Faculty. Granted by the Faculty of Engineering Scholarships Committee based on good academic standing._
 
 * Louis C.H. Scholarships in Engineering
-   *  _Awarded by the Faculty of Engineering to a student with high academic achievement who has completed at least one year of the B.Eng. program in any Department. _
+   * _Awarded by the Faculty of Engineering to a student with high academic achievement who has completed at least one year of the B.Eng. program in any Department._
 
 * Zeev Vered Foundation Award
-   *  _For a student in Civil Engineering with a good academic record. Awarded on the recommendation of the Department._
+   * _For a student in Civil Engineering with a good academic record. Awarded on the recommendation of the Department._
 
 
 
