@@ -1,6 +1,6 @@
 ---
-title: "DesignCheck2"
-excerpt: "Short description of portfolio item number 1<br/><img src='/LY.github.io/images/designcheck.png' width='40%' height = '40%'>"
+title: "DesignCheck2, 13.03.2021"
+excerpt: "The project aims to form a systematic check for a W section element in accordance with Canadian Code CSA S16-14<br/><img src='/LY.github.io/images/designcheck.png' width='40%' height = '40%'>"
 collection: portfolio
 ---
 The project
