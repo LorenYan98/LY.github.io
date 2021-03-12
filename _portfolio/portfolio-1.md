@@ -17,7 +17,7 @@ This project will be contributing to a central store of Arup knowledge that will
 
 User input
 ---
-The code requires the user to input section properties and loading condition along the major and minor axis.
+The code requires the user to input section properties and loading condition along the major and minor axis.   
 Detailed explaination for each variable will be automatically displayed when the cursor points to it
 
 <img src='/LY.github.io/images/designsc.png'>
