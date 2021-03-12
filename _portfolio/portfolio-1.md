@@ -17,7 +17,7 @@ This project will be contributing to a central store of Arup knowledge that will
 
 User input
 ---
-The code requires the user to input section properties and loading condition along the major and minor axis. Detailed explaination for each variable will be automatically displayed when the cursor points to it.
+The code requires the user to input section properties and loading conditions along the major and minor axis. Detailed explanation for each variable will be automatically displayed when the cursor points to it.
 
 <img src='/LY.github.io/images/designsc.png'>
 
@@ -40,7 +40,7 @@ The code reads through user's input and select proper check based on it.
 
 Sample Code
 ---
-The code below shows the methodology for the **Section classification**. As there are some existing functions available for me to process the section classification, the code calls the existing fucntion and output the section class. 
+The code below shows the methodology for the **section classification**. As there are some existing functions available for me to process this, the code calls the existing function and outputs the section class for the following calculations. 
 ```
             // Section class checks flexural compression
             DesignCheck2.Structural.Steel.CSA.S16_14.Members.MomentResistance.SectionClassFlexuralCompressionW section_class_flex_calc;
@@ -56,7 +56,7 @@ The code below shows the methodology for the **Section classification**. As ther
             if (section_class_flex_calc.Results_Class_Web.ValueTyped == Enums.Structural.Steel.CSA.SectionClass.Class_4)
                 AddError("Web is Class 4!");
 ```
-The code below shows the methodology for the **flextural resistance check**. Based on the result of section classification from the previous calculation, the code calls the function that used to calculate the bending moment resistance.
+The code below shows the methodology for the **flexural resistance check**. Based on the result of section classification from the previous calc, the code calls the function that is used to calculate the bending moment resistance.
 ```
             Variable M_r_x = DeclareVariableSilently(0, DesignCheck2.Definitions.Structural.Steel.CSA.Members.M_r_x.Properties);
             if (input_lateral_support == DesignCheck2.Enums.Structural.Steel.CSA.LateralSupportCondition.Laterally_Supported)
@@ -70,5 +70,10 @@ The code below shows the methodology for the **flextural resistance check**. Bas
                         return;
                     M_r_x = GetSubcalculationResult(moment_strong_calc, moment_strong_calc.Results_M_r, DesignCheck2.Definitions.Structural.Steel.CSA.Members.M_r_x.Properties);
                 }
-```
+```  
 
+Output
+---
+As a result, a full calculation report for the W section element in accordance with Canadian Code CSA S16-14 will be generated. The reports include all detailed calculation and reference from the Building Code, which significantly accelerates the design check process.
+
+[Full Calculation Report](https://lorenyan98.github.io/LY.github.io/files/DesignCheck2.Structural.CombinedBeamChecks.pdf)
