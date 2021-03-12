@@ -17,6 +17,6 @@ User input
 ---
 The code requires
 
-<img src='/LY.github.io/images/designsc.png' width='90%' height = '90%'>
+<img src='/LY.github.io/images/designsc.png'>
 
 
