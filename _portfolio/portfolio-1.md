@@ -8,7 +8,9 @@ collection: portfolio
 
 [Design Check sample output](https://lorenyan98.github.io/LY.github.io/files/DesignCheck2.Structural.CombinedBeamChecks.pdf)
 
-**DesignCheck is a standard framework for writing engineering calculations in code**. The W-section DesignCheck is a C# framework I authored that aims to provide the simplest way to compute a systematic check for a W section element in accordance with Canadian Code CSA S16-14, one-click with a full calculation report. This project will be contributing to a central store of Arup knowledge that will be useful forever.
+**DesignCheck is a standard framework for writing engineering calculations in code**. The W-section DesignCheck is a C# framework I authored that aims to provide the simplest way to compute a systematic check for a W section element in accordance with Canadian Code CSA S16-14, one-click with a full calculation report. 
+
+This project will be contributing to a central store of Arup knowledge that will be useful forever.
 
 * Prgramming language: C#
 * Platform: Visual Studio Code, Gitlab  
