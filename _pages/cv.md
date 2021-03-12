@@ -136,4 +136,7 @@ Award
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+*  **2016-present**
+*  **Volunteer**, Summer part-time 
+   * YUHUAZHAI is a vegetarian restaurant that provides free lunch for the elderly and workers in the community. It promotes vegetarianism and advocates 'be grateful for life, cherishes food'.
+
