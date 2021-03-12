@@ -10,7 +10,6 @@ collection: portfolio
 
 **DesignCheck is a standard framework for writing engineering calculations in code**. Using it means people will save time by not having to repetitively pick through calculation spreadsheets trying to find the cluses for the structural check. The project aims to form a systematic check for a W section element in accordance with Canadian Code CSA S16-14 and it will be contributing to a central store of Arup knowledge that will be useful forever.
 
-Prgramming language: C#
-Platform: Visual Studio Code, Gitlab
+* Prgramming language: C#
+* Platform: Visual Studio Code, Gitlab
 
----
