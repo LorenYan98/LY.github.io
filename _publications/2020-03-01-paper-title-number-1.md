@@ -19,4 +19,4 @@ A comprehensive seismic analysis system is essential for the prediction of struc
 [Link](https://github.com/LorenYan98/LY.github.io/blob/main/files/_Pushover_Research%20paperICJE-5-11-120-129.pdf)
 
 
-<img src='https://lorenyan98.github.io/LY.github.io/images/pushover.png' width='50%' height = '50%'>
+<img src='https://lorenyan98.github.io/LY.github.io/images/pushover.png'>
