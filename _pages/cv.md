@@ -111,6 +111,13 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
+Service and leadership
+======
+*  **2016-present**  
+    **YuhuaZhai**, Summer part-time volunteer 
+   * YuhuaZhai is a vegetarian restaurant that provides free lunch for the elderly and workers in the community. It promotes vegetarianism and advocates 'be grateful for life, cherishes food'.
+
 
 Award
 ======
@@ -133,10 +140,5 @@ Award
    *  _Established in 2009 by Rio Tinto Limited in honor of Richard Evans, former President of Rio Tinto Alcan Inc. To be awarded to outstanding undergraduate students in the Faculty of Engineering_
 
 
-  
-Service and leadership
-======
-*  **2016-present**  
-    **YuhuaZhai**, Summer part-time volunteer 
-   * YuhuaZhai is a vegetarian restaurant that provides free lunch for the elderly and workers in the community. It promotes vegetarianism and advocates 'be grateful for life, cherishes food'.
+
 
