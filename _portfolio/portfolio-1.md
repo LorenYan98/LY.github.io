@@ -5,6 +5,7 @@ collection: portfolio
 ---
 
 2021 Spring Made by **Peidong Yan** Directed by **R.Chana**. 
+---
 
 [Design Check sample output](https://lorenyan98.github.io/LY.github.io/files/DesignCheck2.Structural.CombinedBeamChecks.pdf)
 
