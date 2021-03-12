@@ -4,7 +4,7 @@ main:
     url: /cv/
     
   - title: "Timeline"
-    url: /publications/ 
+    url: /posts/ 
 
   - title: "Project"
     url: /portfolio/
