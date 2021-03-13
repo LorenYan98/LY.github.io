@@ -63,7 +63,11 @@ Based on the load condition that calculated by **P.Allard**, I created two struc
 
 <img src='/LY.github.io/images/dpdesign2.png' width='100%' height = '100%'>
 
-After defining all load cases and load combinations, the structural analysis indicated that the worst-case scenario is under the load combination of 1.1D+1.5L+0.45W. The cage structure was decomposed into seven groups. Central bearing trusses and horizontal trusses were made of W shape steel, and cross-bracing trusses were made of WT shape steel. The rest of the four groups were made of HSS shapes.  In SAP2000, the setting for the Auto-Selection list ranges from W100x19 to W360x990 for the W section, L25x25x3 to L200x200x30 for the WT section, and HSS 32x32x3 to HSS 305x305x13 for the HSS section. The software optimizes the structural behavior and prevents potential failures by selecting suitable truss sizes that can resist the worst-case scenario.  The default design code is based on CSA S16-14.  
+After defining all load cases and load combinations, the structural analysis indicated that the worst-case scenario is under the load combination of 1.1D+1.5L+0.45W. The cage structure was decomposed into seven groups.In SAP2000, the setting for the Auto-Selection list ranges from  
+* W100x19 to W360x990 for the W section, 
+* L25x25x3 to L200x200x30 for the WT section, and 
+* HSS 32x32x3 to HSS 305x305x13 for the HSS section.  
+The software optimizes the structural behavior and prevents potential failures by selecting suitable truss sizes that can resist the worst-case scenario.  The default design code is based on CSA S16-14.  
 <img src='/LY.github.io/images/dpdesign3.png' width='100%' height = '100%'>
 
 
