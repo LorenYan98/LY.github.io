@@ -44,3 +44,9 @@ Applicable Design Code, Regulations, References, Software
    * Vray 4.0 -- 3D model rendering and visualization
    * Microsoft Excel -- load calculations, connection design calculations
 
+Work Breakdown Structure & Project Timeline
+---
+
+<img src='/LY.github.io/images/dpchart.png' width='70%' height = '70%'>
+
+
