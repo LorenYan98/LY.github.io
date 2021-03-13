@@ -59,6 +59,10 @@ For the Cogswell Redevelopment Program, **the main objective of the truss config
 
 Based on the load condition that calculated by **P.Allard**, I created two structural models with SAP2000 and SketchUp
 
-<img src='/LY.github.io/images/dpdesign1.png' width='80%' height = '80%'>
+<img src='/LY.github.io/images/dpdesign1.png' width='100%' height = '100%'>
+
+<img src='/LY.github.io/images/dpdesign2.png' width='100%' height = '100%'>
+
+<img src='/LY.github.io/images/dpdesign3.png' width='100%' height = '100%'>
 
 
