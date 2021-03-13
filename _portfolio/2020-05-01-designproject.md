@@ -30,14 +30,14 @@ Our Group has been given requirements and constraints regarding the execution of
 Applicable Design Code, Regulations, References, Software
 ---
 
-* Design Code, Regulation
+* **Design Code, Regulation**
    * National Building Code of Canada (NBCC 2015)
    * CSA S16 Design Standard (2014) 
    * CSA A23.3-14 Design Standard
-* Reference
+* **Reference**
    * Concrete Design Handbook 3rd edition
    * Steel Design Handbook 11th edition
- * Software
+ * **Software**
    * SAP 2000 -- Structural modeling and response analysis
    * SketchUp 2019 -- 3D modeling of the structure and detail connections
    * AutoCAD -- bridge footing, column, bearing cap design
