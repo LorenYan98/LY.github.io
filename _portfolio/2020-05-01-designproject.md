@@ -95,7 +95,7 @@ A detailed connection design follows the SAP 2000 frame analysis. First, the res
 
 Summary of maximum forces in all truss members
 
-<img src='/LY.github.io/images/dpdesign10.png' width='80%' height = '80%'>
+<img src='/LY.github.io/images/dpdesign10.png' width='70%' height = '70%'>
 
 Following the decision to design our connections as basic welded & bolted gusset plate connections, conceptual drawings are drafted using Google SketchUp to aid visually in the design steps and provide rough sketches & details of the future connections. An example of such is shown in the picture below. The other conceptual connection models done in SketchUp are found in the annex section of this report. 
 
