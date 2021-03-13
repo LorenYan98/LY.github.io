@@ -88,7 +88,7 @@ _Project experience_
 ====== 
 * **2020.01 – 2020.05**   
     **Capstone Design Project** (McGill University), 
-    * Designed a steel truss cage to hold the pedestrian bridge spanning Cogswell Street which will enable the removal of the central support column. While minimizing deflection of the glass exterior & water pipes located on the bridge roof.
+    * [Designed a steel truss cage](https://lorenyan98.github.io/LY.github.io/portfolio/2020-05-01-designproject/) to hold the pedestrian bridge spanning Cogswell Street which will enable the removal of the central support column. While minimizing deflection of the glass exterior & water pipes located on the bridge roof.
     * Drafted construction stages and section views of the bridge& steel cage showing the connection details with SketchUp.
     * Built SAP2000 model to analyze the structural response under different load cases; Using Auto-section function to select the proper size of HSS steel trusses based on the CSA S6-14 standard.
 
