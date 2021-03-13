@@ -130,7 +130,7 @@ The Link below is the animation for the construction stage.
 [![Watch the video](/LY.github.io/images/dpdesign16.png)](https://www.youtube.com/watch?v=rs_Uda9Jjhg&ab_channel=PeidongYan)
 
 
-Model Rendering
+Model Rendering (Construction Complete)
 ---
 <img src='/LY.github.io/images/Final1.png' width='90%' height = '90%'>
 
