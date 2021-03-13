@@ -73,6 +73,11 @@ The software optimizes the structural behavior and prevents potential failures b
 
 <img src='/LY.github.io/images/dpdesign4.png' width='90%' height = '90%'>
 
+<img src='/LY.github.io/images/dpdesign7.png' width='90%' height = '90%'>
+
+<img src='/LY.github.io/images/dpdesign8.png' width='90%' height = '90%'>
+
+After defining the geometry and size of trusses, the model passed to SAP2000 for further check 
+
 <img src='/LY.github.io/images/dpdesign5.png' width='90%' height = '90%'>
 
-<img src='/LY.github.io/images/dpdesign6.png' width='90%' height = '90%'>
