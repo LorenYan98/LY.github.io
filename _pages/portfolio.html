@@ -9,7 +9,7 @@ author_profile: true
 
 
 {% assign sorted = site.portfolio | sort: 'date' %}
-   {% for item in sorted %}
-    {% include archive-single.html %}
-   {% endfor %}
+{% for item in sorted %}
+   {% include archive-single.html %}
+{% endfor %}
 
