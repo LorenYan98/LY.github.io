@@ -6,7 +6,7 @@ collection: portfolio
 
 ---
 
-2020 Spring Made by **Peidong Yan** Collaborated with **M.Haddadin**, **A.Bernola**, **P.Allard**.
+2020 Spring Made by **Peidong Yan** Collaborated with **M.Haddadin**, **A.Bernola**, **P.Allard**, **E.A.Manneh**.
 Achieved the highest grade among the class, and later be invited to WSP Montreal office to present our design methodology.  
 
 [View Full Presentation Slides](https://lorenyan98.github.io/LY.github.io/files/FinalPre.pdf)  
