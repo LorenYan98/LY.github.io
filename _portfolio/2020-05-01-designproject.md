@@ -99,3 +99,9 @@ Summary of maximum forces in all truss members
 
 Following the decision to design our connections as basic welded & bolted gusset plate connections, conceptual drawings are drafted using Google SketchUp to aid visually in the design steps and provide rough sketches & details of the future connections. An example of such is shown in the picture below. The other conceptual connection models done in SketchUp are found in the annex section of this report. 
 
+As there are 14 different types of connection in our design, five of them are selected for information. More detailed calculation can be obtained from the [full design report](https://lorenyan98.github.io/LY.github.io/files/Finalrep.pdf) 
+
+<img src='/LY.github.io/images/dpdesign11.png' width='90%' height = '90%'>
+
+<img src='/LY.github.io/images/dpdesign12.png' width='90%' height = '90%'>
+
