@@ -8,7 +8,7 @@ collection: portfolio
 
 2020 Spring Made by **Peidong Yan** Collaborated with **M.Haddadin**, **A.Bernola**, **P.Allard**.
 
--
+  
 
 Introduction
 ---
