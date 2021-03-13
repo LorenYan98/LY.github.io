@@ -11,7 +11,7 @@ Achieved the highest grade among the class, and later be invited to WSP Montreal
 
 [View Full Presentation Slides](https://lorenyan98.github.io/LY.github.io/files/FinalPre.pdf)  
 
-[View Full Calculation Report](https://lorenyan98.github.io/LY.github.io/files/Finalrep.pdf) 
+[View Full Report](https://lorenyan98.github.io/LY.github.io/files/Finalrep.pdf) 
 
 Introduction
 ---
