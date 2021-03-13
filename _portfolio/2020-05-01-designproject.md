@@ -14,7 +14,7 @@ Introduction
 ---
 The segment of the project from WSP that has been given to us involves the deconstruction of an on-ramp and the re-structuring of a pedestrian bridge linking a commercial building on the north side and a parking garage on the south side. The pedestrian bridge is made of concrete and is supported by a central concrete column. The re-structuring of the bridge involves deconstructing of the central concrete column. The bridge has glass windows that must be preserved. The bridge spans 35.6m and is 10.3m above street level. A functioning water pipe is locating on top of the bridge that must remain operational at all time. Disruption to pedestrian and street traffic must be minimised.  
 
-<img src='/LY.github.io/images/dpcover3.png' width='60%' height = '60%'>
+<img src='/LY.github.io/images/dpcover3.png' width='90%' height = '90%'>
 
 Project Objective
 ---
