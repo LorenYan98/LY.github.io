@@ -71,4 +71,8 @@ After defining all load cases and load combinations, the structural analysis ind
 The software optimizes the structural behavior and prevents potential failures by selecting suitable truss sizes that can resist the worst-case scenario.  The default design code is based on CSA S16-14.  
 <img src='/LY.github.io/images/dpdesign3.png' width='90%' height = '90%'>
 
+<img src='/LY.github.io/images/dpdesign4.png' width='90%' height = '90%'>
 
+<img src='/LY.github.io/images/dpdesign5.png' width='90%' height = '90%'>
+
+<img src='/LY.github.io/images/dpdesign6.png' width='90%' height = '90%'>
