@@ -86,3 +86,16 @@ After defining the geometry and size of trusses, the model passed to SAP2000 for
 
 <img src='/LY.github.io/images/dpdesign5.png' width='90%' height = '90%'>
 
+Detailed Design
+---
+
+A detailed connection design follows the SAP 2000 frame analysis. First, the results of the analysis data are exported to a Microsoft Excel file. SAP 2000 exports analysis results in a tabular format. Each row in the table corresponds to a point on an individual frame element and the loads acting at that point. 
+
+<img src='/LY.github.io/images/dpdesign9.png' width='80%' height = '80%'>
+
+Summary of maximum forces in all truss members
+
+<img src='/LY.github.io/images/dpdesign10.png' width='80%' height = '80%'>
+
+Following the decision to design our connections as basic welded & bolted gusset plate connections, conceptual drawings are drafted using Google SketchUp to aid visually in the design steps and provide rough sketches & details of the future connections. An example of such is shown in the picture below. The other conceptual connection models done in SketchUp are found in the annex section of this report. 
+
