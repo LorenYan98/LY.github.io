@@ -116,3 +116,10 @@ Our design includes the following components in order to properly design the out
 * Base Plates
 * Anchor Rods
 * Guided Supports
+
+The final design has the following cross section as shown in the figure.
+
+<img src='/LY.github.io/images/dpdesign14.png' width='90%' height = '90%'>
+
+<img src='/LY.github.io/images/dpdesign15.png' width='90%' height = '90%'>
+
