@@ -8,7 +8,8 @@ collection: portfolio
 
 2020 Spring Made by **Peidong Yan** Collaborated with **M.Haddadin**, **A.Bernola**, **P.Allard**.
 Achieved the highest grade among the class, and later be invited to WSP Montreal office to present our design methodology.
-  
+[View Full Presentation Slides](https://lorenyan98.github.io/LY.github.io/files/FinalPre.pdf) 
+[View Full Calculation Report](https://lorenyan98.github.io/LY.github.io/files/Finalrep.pdf) 
 
 Introduction
 ---
