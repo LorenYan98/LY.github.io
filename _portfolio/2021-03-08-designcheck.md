@@ -82,6 +82,6 @@ As a result, a full calculation report for the W section element in accordance w
 
 [View Full Calculation Report](https://lorenyan98.github.io/LY.github.io/files/DesignCheck2.Structural.CombinedBeamChecks.pdf) 
 
-  `<img src='/LY.github.io/images/samplecal.png'>`
-  <embed src="/LY.github.io/images/samplecal.pngf" width="100%" height="850px"/>
+  <img src='/LY.github.io/images/samplecal.png'>
+  <embed src="https://lorenyan98.github.io/LY.github.io/files/DesignCheck2.Structural.CombinedBeamChecks.pdf" width="100%" height="850px"/>
 
