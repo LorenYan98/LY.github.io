@@ -67,13 +67,18 @@ After defining all load cases and load combinations, the structural analysis ind
 * W100x19 to W360x990 for the W section, 
 * L25x25x3 to L200x200x30 for the WT section, and 
 * HSS 32x32x3 to HSS 305x305x13 for the HSS section.  
-
-The software optimizes the structural behavior and prevents potential failures by selecting suitable truss sizes that can resist the worst-case scenario.  The default design code is based on CSA S16-14.  
+ 
 <img src='/LY.github.io/images/dpdesign3.png' width='90%' height = '90%'>
+
+Section group:
 
 <img src='/LY.github.io/images/dpdesign4.png' width='90%' height = '90%'>
 
+The software optimizes the structural behavior and prevents potential failures by selecting suitable truss sizes that can resist the worst-case scenario.  The default design code is based on CSA S16-14. 
+
 <img src='/LY.github.io/images/dpdesign7.png' width='90%' height = '90%'>
+
+Auto-Selection Result:
 
 <img src='/LY.github.io/images/dpdesign8.png' width='90%' height = '90%'>
 
