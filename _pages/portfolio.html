@@ -12,3 +12,9 @@ author_profile: true
     {% include archive-single.html %}
 {% endfor %}
 
+<ul>
+    {% assign sorted = site.portfolio | sort: 'date' | reverse %}
+    {% for item in sorted %}
+    <li> {% include archive-single.html %}</li>
+    {% endfor %}
+</ul>
