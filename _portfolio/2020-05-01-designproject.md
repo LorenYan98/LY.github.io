@@ -91,7 +91,7 @@ Detailed Design
 
 A detailed connection design follows the SAP 2000 frame analysis. First, the results of the analysis data are exported to a Microsoft Excel file. SAP 2000 exports analysis results in a tabular format. Each row in the table corresponds to a point on an individual frame element and the loads acting at that point. 
 
-<img src='/LY.github.io/images/dpdesign9.png' width='80%' height = '80%'>
+<img src='/LY.github.io/images/dpdesign9.png' width='70%' height = '70%'>
 
 Summary of maximum forces in all truss members
 
