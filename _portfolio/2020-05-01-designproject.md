@@ -105,3 +105,14 @@ As there are 14 different types of connection in our design, five of them are se
 
 <img src='/LY.github.io/images/dpdesign12.png' width='90%' height = '90%'>
 
+Column Design
+---
+
+The support connection design encompasses the transfer of forces from the truss structure to the outer columns. The chosen type of support system is a roller and pin type because of the zero moment values at each support. A total of 4 supports are needed.
+
+Our design includes the following components in order to properly design the outer columns:
+
+* Elastomeric Bearings
+* Base Plates
+* Anchor Rods
+* Guided Supports
