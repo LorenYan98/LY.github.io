@@ -7,7 +7,7 @@ collection: portfolio
 ---
 
 2020 Spring Made by **Peidong Yan** Collaborated with **M.Haddadin**, **A.Bernola**, **P.Allard**.
-
+Achieved the highest grade among the class, and later be invited to WSP Montreal office to present our design methodology.
   
 
 Introduction
@@ -26,3 +26,21 @@ Our Group has been given requirements and constraints regarding the execution of
 *	Minimize interruption of pedestrian and road traffic on & under the bridge
 *	Maximize the public use space under the bridge and along Cogswell Street, including the deconstruction of the Cogswell Street on-ramp
 *	Minimise the use of construction materials for economic and sustainable benefits
+
+Applicable Design Code, Regulations, References, Software
+---
+
+* Design Code, Regulation
+   * National Building Code of Canada (NBCC 2015)
+   * CSA S16 Design Standard (2014) 
+   * CSA A23.3-14 Design Standard
+* Reference
+   * Concrete Design Handbook 3rd edition
+   * Steel Design Handbook 11th edition
+ * Software
+   * SAP 2000 -- Structural modeling and response analysis
+   * SketchUp 2019 -- 3D modeling of the structure and detail connections
+   * AutoCAD -- bridge footing, column, bearing cap design
+   * Vray 4.0 -- 3D model rendering and visualization
+   * Microsoft Excel -- load calculations, connection design calculations
+
