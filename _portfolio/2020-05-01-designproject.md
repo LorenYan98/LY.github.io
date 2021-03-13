@@ -47,6 +47,6 @@ Applicable Design Code, Regulations, References, Software
 Work Breakdown Structure & Project Timeline
 ---
 
-<img src='/LY.github.io/images/dpchart.png' width='70%' height = '70%'>
+<img src='/LY.github.io/images/dpchart.png' width='100%' height = '100%'>
 
 
