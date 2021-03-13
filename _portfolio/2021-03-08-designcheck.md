@@ -1,6 +1,6 @@
 ---
 title: "DesignCheck2, Arup Compute"
-excerpt: "**The project aims to form a systematic check for a W section element**<br/><img src='/LY.github.io/images/designcheck.png' height =50%, width =50%> "
+excerpt: "**The project aims to form a systematic check for a W section element**<br/><img src='/LY.github.io/images/designcheck.png' width='50%' height = '50%'> "
 date: 2021-03-08
 tags:
   - Design Check
