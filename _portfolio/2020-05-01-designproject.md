@@ -55,7 +55,7 @@ Work Breakdown Structure & Project Timeline
 Modelling and Analysis
 ---
 
-For the Cogswell Redevelopment Program, **the main objective of the truss configuration design is to hold the entire concrete bridge without exceeding the maximum allowable deflection**. Due to the consideration of the constructability that the project consists of multiple construction stages, we developed two designs corresponding to **a temporary configuratio**n and** a permanent configuration** respectively. 
+For the Cogswell Redevelopment Program, **the main objective of the truss configuration design is to hold the entire concrete bridge without exceeding the maximum allowable deflection**. Due to the consideration of the constructability that the project consists of multiple construction stages, we developed two designs corresponding to **a temporary configuration** and **a permanent configuration** respectively. 
 
 Based on the load condition that calculated by **P.Allard**, I created two structural models with SAP2000 and SketchUp
 
