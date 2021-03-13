@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Peidong Yan"
-  avatar           : "Pd.png"
+  avatar           : "/images/Pd.png"
   bio              : "Civil Engineering Student at McGill University"
-  location         : "17 dundonald st,Toronto, ON, CA, M4Y 1K3"
+  location         : "17 dundonald st,Toronto, ON, Canada"
   phone            : "581-922-3419"
   employer         :
   pubmed           : 
