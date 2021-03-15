@@ -20,6 +20,7 @@ _Education_
 _Interest_
 ======
 * Structural and earthquake engineering
+* Non-damage structural monitoring
 * Numerical modeling
 
 _Skills & Software_
