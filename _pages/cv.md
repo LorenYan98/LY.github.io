@@ -73,7 +73,7 @@ _Research experience_
   **Framework for seismic fragilities for wood structures** (McGill University), 
     * Investigated the mechanism of damage-index based fragility analysis through the definition based on the formula.
        * ![](http://latex.codecogs.com/svg.latex?P\left[d_s\geq C\vert S_a\right]=\phi\left[\frac{\ln(S_d)-\ln(S_{d,ds})}{\sqrt{\beta_c^2+\beta_d^2+\beta_m^2}}\right])
-    * Utilized the Park-Ang (1985) Damage Index Model to determine the DI of a single shear wall, and applied it to the fragility analysis
+    * Utilized the Park-Ang (1985) Damage Index Model to determine the DI of a single shear wall.
     * Correlated the Damage Index of a single shear wall to the DI of the whole structure by the weight factor, ![](http://latex.codecogs.com/svg.latex?DI_{structure}=\;{\textstyle{\displaystyle\overset n{\underset{i=1}{\sum\lambda}}}i_{wall}\ast DI_{wall}})
     * Determined potential factors influencing seismic responses of light-frame wood structures by analyzing their fragility curves via different retrofit strategies.
     * Supervisor: Luc E Chouinard
