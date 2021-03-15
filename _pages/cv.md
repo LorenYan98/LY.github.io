@@ -116,7 +116,7 @@ _Project experience_
     *  Recruit hundreds of study participants using innovative advertising
  
 
-Publications
+Research Paper
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
