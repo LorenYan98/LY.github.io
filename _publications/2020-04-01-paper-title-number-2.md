@@ -6,7 +6,7 @@ excerpt: ''
 date: 2020-04-01
 venue: 'WSRJ'
 paperurl:
-citation: 'Peidong Yan (2020). &quot;Framework for Seismic Fragilities on Light-Frame Wood Structures and Retrofitting Strategies.&quot;DOI: 10.6911/WSRJ.202004_6(4).0028, ISSN: 2472-3703. <i>WSRJ 1</i>. 1(2).'
+citation: 
 ---
 
 Abstract
