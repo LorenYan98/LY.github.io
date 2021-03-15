@@ -72,7 +72,7 @@ _Research experience_
 * **2019.08 – 2019.12**  
   **Framework for seismic fragilities for wood structures** (McGill University), 
     * Investigated the mechanism of damage-index based fragility analysis through the definition based on the formula.
-       * \P left[ \frac{a}{b} \right]
+       * $\P left[ \frac{a}{b} \right]$
     * Extracted seismic data of a full-scale shake table test on a wood structure from NEESWood Project (2007) and utilized the data to calibrate the Damage Index model.
     * Determined potential factors influencing seismic responses of light-frame wood structures by analyzing their fragility curves via different retrofit strategies.
     * Supervisor: Luc E Chouinard
