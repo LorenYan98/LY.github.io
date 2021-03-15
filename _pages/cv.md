@@ -17,6 +17,8 @@ _Education_
 * **_Study away program, Stanford University_**, **_2019.06 -2019.08_** 
   * _GPA: 3.80 /4.00_
 
+$x^3+x^9+x^y$
+
 _Interest_
 ======
 * Structural and earthquake engineering
