@@ -8,7 +8,7 @@ venue: 'ICJE'
 paperurl: 
 
 
-citation: 'Peidong Yan(2020). &quot;Formation of an Effective Non-Linear Seismic Analysis.&quot;, DOI: 10.6919/ICJE.201910_5(11).0017, ISSN: 2414-1895 <i>ICJE</i>. 1(1).'
+citation: 
 ---
 
 
