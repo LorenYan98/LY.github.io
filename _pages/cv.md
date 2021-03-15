@@ -83,6 +83,7 @@ _Research experience_
     * Constructed the 3D-model for a three-story reinforced concrete building (Richmond, BC) with SAP2000
     * Performed Pushover analysis on the structure subjected to different earthquake levels; Statistically analyzed the data collected and their corresponding capacity spectrum, using SAP2000 to determine the seismic resistance of the structure.
     * Identified and analyzed potential restraints regarding the Pushover analysis and cooperated the capacity spectrum method with it to optimize the prediction of responses for high-mode buildings.
+    * Undergrad Thesis
 
 
 _Project experience_
