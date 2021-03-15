@@ -71,7 +71,7 @@ _Work experience_
 _Research experience_
 ====== 
 * **2019.08 – 2019.12**  
-  **Framework for seismic fragilities for wood structures** (McGill University), 
+  **Framework of seismic fragilities for wood structures** (McGill University), 
     * Investigated the mechanism of damage-index based fragility analysis through the definition based on the formula.
        * ![](http://latex.codecogs.com/svg.latex?P\left[d_s\geq C\vert S_a\right]=\phi\left[\frac{\ln(S_d)-\ln(S_{d,ds})}{\sqrt{\beta_c^2+\beta_d^2+\beta_m^2}}\right])
     * Utilized the Park-Ang (1985) Damage Index Model to determine the DI of a single shear wall.
