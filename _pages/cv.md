@@ -101,7 +101,7 @@ _Project experience_
 * **2019.06 – 2019.08**      
    * **First Order Matrix Structural Analysis of 2-D Frames and Trusses** (Stanford University)
       * Use the fundamentals of physics and mathematics to assist the analysis and design of 2-D Frames and Trusses with MATLAB.
-      * The program reads through section properties of frames and its load conditions. Output a full report which includes node displacements and reaction forces.
+      * The program reads through section properties of frames and load conditions. Output a full report which includes node displacements and reaction forces.
    
   *  **Sustainable Design Fair** (Stanford University)
       * Iterated designs and built prototypes of an advanced capsule hotel with SketchUp to engineer its structure for optimizing the occupancy of the area and meeting national safety standards; rendered the 3D model with Vray to present the design in the fair.
