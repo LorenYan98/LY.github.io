@@ -20,6 +20,7 @@ _Education_
 _Interest_
 ======
 * Structural and earthquake engineering
+* Performance-based design
 * Non-damage structural monitoring
 * Numerical modeling
 
