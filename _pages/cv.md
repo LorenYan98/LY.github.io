@@ -81,7 +81,9 @@ _Research experience_
 
 * **2019.04 – 2019.11**  
   **Pushover analysis for reinforced concrete structures** (McGill University), 
-    * Constructed the 3D-model for a three-story reinforced concrete building (Richmond, BC) with SAP2000
+    * Investigated the mechanism of Pushover analysis and the derivation of the demand& capacity curve for the capacity spectrum method.
+    * Constructed the 3D-model for a three-story reinforced concrete building (Richmond, BC) with SAP2000.
+      * Hinge type refers to ASCE 41-13, Table 10-7
     * Performed Pushover analysis on the structure subjected to different earthquake levels; Statistically analyzed the data collected and their corresponding capacity spectrum, using SAP2000 to determine the seismic resistance of the structure.
     * Identified and analyzed potential restraints regarding the Pushover analysis and cooperated the capacity spectrum method with it to optimize the prediction of responses for high-mode buildings.
     * Undergrad Thesis
