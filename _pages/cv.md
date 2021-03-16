@@ -60,7 +60,7 @@ _Work experience_
    **WSP** (Toronto, ON, Canada) **Structural engineer intern**, 
    * Worked with the Civil infrastructure department on a bridge design as part of my internship program
    * Learned to use different softwares such as Revit, Sketchup and bluebeam as part of the BIM team
-   * Partook in the operation of a BIM design portfolio for the Cogswell project, which included designing, rendering, attending meetings with stakeholders and on site inspections to update the BIM design
+   * Partook in the operation of a BIM design portfolio for the project, which included designing, rendering, attending meetings with stakeholders and on site inspections to update the BIM design
 
 
 * **2019.05 – 2019.06**  
