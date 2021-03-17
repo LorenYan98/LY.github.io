@@ -20,9 +20,9 @@ _Education_
 _Interest_
 ======
 * Structural and earthquake engineering
-* Performance-based design
+* Tubular steel structure
 * Non-damage structural monitoring
-* Numerical modeling
+* Performance-based design
 
 _Skills & Software_
 ======
