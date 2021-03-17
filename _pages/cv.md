@@ -98,7 +98,7 @@ _Project experience_
     * Designed a steel truss cage to hold the pedestrian bridge spanning Cogswell Street which will enable the removal of the central support column. While minimizing deflection of the glass exterior & water pipes located on the bridge roof.
     * Drafted construction stages and section views of the bridge& steel cage showing the connection details with SketchUp.
     * Built SAP2000 model to analyze the structural response under different load cases; Using Auto-section function to select the proper size of HSS steel trusses based on the CSA S6-14 standard.
-    * Advisor: Raphael Lévesque (WSP), Denis Mitchell
+    * Advisor: Raphael Lévesque (WSP), Denis Mitchell (McGill University)
 
 * **2019.06 – 2019.08**      
    * **First Order Matrix Structural Analysis of 2-D Frames and Trusses** (Stanford University)
