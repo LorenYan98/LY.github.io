@@ -126,7 +126,7 @@ Research Paper & Essay
   
 Service and leadership
 ======
-*  **2016-present**  
+*  **2016 - Present**  
     **YuhuaZhai**, Summer part-time volunteer 
    * YuhuaZhai is a vegetarian restaurant that provides free lunch for the elderly and workers in the community. It promotes vegetarianism and advocates 'be grateful for life, cherishes food'.
 
