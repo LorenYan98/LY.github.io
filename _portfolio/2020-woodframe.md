@@ -4,7 +4,7 @@ collection: portfolio
 permalink: /publication/2020-04-01-paper-title-number-2
 excerpt: ''
 paperurl:
-citation: Peidong Yan, G Liu. (2020). &quot;Framework for Seismic Fragilities on Light-Frame Wood Structures and Retrofitting Strategies.&quot; <i>WSRJ Volume 6 Issue 4, 2020, ISSN: 2472-3703</i>. 1(1).
+citation: 'Peidong Yan, G Liu. (2020). &quot;Framework for Seismic Fragilities on Light-Frame Wood Structures and Retrofitting Strategies.&quot; <i>WSRJ Volume 6 Issue 4, 2020, ISSN: 2472-3703</i>. 1(1).'
 ---
 
 Abstract
