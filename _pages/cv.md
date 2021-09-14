@@ -72,7 +72,7 @@ _Research experience_
 
 _Work experience_
 ======
-* **2021.01 – present**  
+* **2021.01 – 2021.05**  
    **Arup** (Toronto, ON, Canada) **Structural engineer intern**, 
    * Responsible for the calculation reports, review of drawings, method statements related to the Firehall project (Toronto)
    * Collaborated with colleagues in Arup London office in the Whiteboard Project (Dublin), performed detailed calculations and made a full design report for steel beams at School Macroom based on the EuroCode.
