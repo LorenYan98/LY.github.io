@@ -13,7 +13,7 @@ redirect_from:
 _Education_
 ======
 * **_M.S in Structural Engineering, Stanford University_**, **_2021.09 -2023.04_** 
-  **_Minor Computer Science, 2021.09 -2023.04_** 
+* **_Minor Computer Science, 2021.09 -2023.04_** 
   * _GPA: 4.00 /4.00_
 * **_B.S. in Civil Engineering, McGill University_**, **_2016.09 -2021.02_**     
   * _GPA: 3.90 /4.00 (Major GPA 3.94 /4.00)_   _Dean’s Honor List (top 10%)_
