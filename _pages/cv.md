@@ -125,6 +125,12 @@ _Project experience_
   *  **Sustainable Design Fair** (Stanford University)
       * Iterated designs and built prototypes of an advanced capsule hotel with SketchUp to engineer its structure for optimizing the occupancy of the area and meeting national safety standards; rendered the 3D model with Vray to present the design in the fair.
 
+* **2017.10 – 2018.05**   
+    **Pokedex** (Montreal, QC, Canada) Developer,
+    *  Developed a web application that allows users to search for pokemon by name or by scrolling through a list ordered bypokemon number. Selecting or searching for a pokemon redirects users to the pokemon’s profile page.
+    *  Built with **React.js**, & Bootstrap. Using the **Pokeapi.co API**.
+    *  Designed adaptive layouts with **React.js** to make the website mobile-friendly Used JavaScript to create controllers to handle events triggered by clients and send a request to the server.
+    
 * **2018.05 - 2018.06**   
     **Geotechnical Survey** (Montreal, QC, Canada), 
     * Conducted site survey for an abrupt hill around McConnell Arena Area; Operated measurement instruments (digital transit &GPS) to locate positions and altitudes of desired points. Drew the topographic map with AutoCAD.
