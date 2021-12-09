@@ -141,7 +141,7 @@ _Project experience_
     *  Recruit hundreds of study participants using innovative advertising
  
 
-Research Paper & Essay
+Conference Paper & Publication
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
