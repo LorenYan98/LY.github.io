@@ -61,7 +61,7 @@ _Research experience_
     * Supervisor: Luc E Chouinard
 
 * **2019.04 – 2019.11**  
-  **Pushover analysis for reinforced concrete structures** (Stanford University), 
+  **PM 2.5 Spatial-Temporal Prediction with the Ensemble Machine Learning Model** (Stanford University), 
     * Developed an ensemble machine learning model with a dynamic weighting scheme to predict the PM2.5 concentration at locations of interest, which is expected to help the researcher to improve PM2.5 control. The ensemble model cooperated 4 models with marten 32 gaussian and achieved accuracy as high as 95%
     * Supervisor: Haeyoung Noh
 
