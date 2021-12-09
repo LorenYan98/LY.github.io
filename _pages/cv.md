@@ -46,7 +46,11 @@ _Skills & Software_
        * Using Python to Access Web Data
        * Using Databases with Python
        * Python Data Structures
-  * C#
+  * C#/C++
+  * Java
+  * JavaScript/HTML/CSS
+  * Spring Boot, Spring Data, Spring Web/Security/OAuth
+  * Express.js, Node.js, Hibernate
   * Visual Code Studio & GitHub
 
 _Research experience_
@@ -99,6 +103,13 @@ _Work experience_
  
 _Project experience_
 ====== 
+* **2020.01 – 2020.12**   
+    [**TravelNet**](https://github.com/LorenYan98/TravelNet-Project) (McGill University), 
+    * Developed a full-stack project TravelNet, offering local tourist spots search, user-generated reviews, detailed destinationinformation.  It allows users to provide reviews and ratings for the tourist spot.
+    * Implementing NoSQL database using **MongoDB** in **Node.js** environment and **Express** Framework as the back-enddevelopment.  Using MongoDB to store user-related data and destination data. Processing input data validation with **joi API**. Using multer.js middleware to parse images (jpg, png, jpeg) uploaded by users and store them into **Cloudinary**(cloudstorage platform).
+    * Developed responsive front-end using **Bootstrap4** and **EJS** templates with **HTML** and **CSS**. Using **RESTful API’s** to facilitate different functionalities.
+    * The project used **Passport.js** and related modules for user authentication. The authenticated user is allowed to perform CRUD operations on contents bonded with the current account.
+    
 * **2020.01 – 2020.05**   
     [**Capstone Design Project**](https://lorenyan98.github.io/LY.github.io/portfolio/2020-05-01-designproject/) (McGill University), 
     * Designed a steel truss cage to hold the pedestrian bridge spanning Cogswell Street which will enable the removal of the central support column. While minimizing deflection of the glass exterior & water pipes located on the bridge roof.
