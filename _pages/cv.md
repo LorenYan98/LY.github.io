@@ -16,7 +16,7 @@ _Education_
 * **_Minor Computer Science, 2021.09 -2023.04_** 
   * _GPA: 4.00 /4.00_
 * **_B.S. in Civil Engineering, McGill University_**, **_2016.09 -2021.02_**     
-  * _GPA: 3.90 /4.00 (Major GPA 3.94 /4.00)_   _Dean’s Honor List (top 10%)_
+  * _GPA: 3.93 /4.00 (Major GPA 3.96 /4.00)_   _Dean’s Honor List (2016-2020)_
 
 
 _Interest_
